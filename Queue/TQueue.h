@@ -93,4 +93,5 @@ T TQueue<T>::bot()
 {
 	return mas[last];
 }
+
 #endif
